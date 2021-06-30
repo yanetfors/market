@@ -10,8 +10,10 @@ given a JSON file with the needed information.
 # Steps to run the project
 
 1- Activate your virtual environment
+
 2- Excecute `python main.py`
 
 # Running tests
 
-- Execute `python test_main.py`
+- Execute `python test_main.py` or
+  `python -m unittest test_main.py -v` for more details
